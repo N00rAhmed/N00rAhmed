@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript and CSS
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
 - 📫 How to reach me: noor.ahmed232003@outlook.com
+- <p>Here is a link to my portfolio website: https://portfolio-code-projects-site-noorahmed.netlify.app</p>
+
 - ![](https://visitor-badge.laobi.icu/badge?page_id=N00rAhmed.N00rAhmed)
 <br/>
 
