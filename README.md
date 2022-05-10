@@ -8,7 +8,9 @@
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=N00rAhmed&show_icons=true&theme=tokyonight)
+<br/>
 https://skyline.github.com/n00rahmed/2022
+<br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N00rAhmed&theme=tokyonight)
 
