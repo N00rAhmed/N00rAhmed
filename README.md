@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N00rAhmed
-- 👀 I’m interested in computer progamming and the languages that i currently know are Python, C#, HTML and JavaScript
-- 🌱 I’m currently learning JavaScript and CSS
+- 👀 I’m interested in full-stack development and the technologies that I know are Python, C#, HTML/CSS, JavaScript, React.js, MongoDB/Mongoose
+- 🌱 I’m currently learning about firebase and React.js
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
 - 📫 How to reach me: noor.ahmed232003@outlook.com
 - ![](https://visitor-badge.laobi.icu/badge?page_id=N00rAhmed.N00rAhmed)
