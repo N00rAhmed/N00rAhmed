@@ -6,6 +6,7 @@
 - ![](https://visitor-badge.laobi.icu/badge?page_id=N00rAhmed.N00rAhmed)
 - Here is a link to my portfolio website: https://p0rtf0li0-noor.netlify.app
 <br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N00rAhmed&show_icons=true&theme=tokyonight)
 
 <br/>
 https://skyline.github.com/n00rahmed/2022
