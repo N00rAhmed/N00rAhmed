@@ -15,8 +15,6 @@
 
 <br/>
 
-## 🔥 Streak Stats
-
 [![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=N00rAhmed&theme=tokyonight)](https://github.com/N00rAhmed)
 
 <br/>
