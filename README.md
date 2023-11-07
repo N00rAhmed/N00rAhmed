@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=N00rAhmed&theme=tokyonight)](https://github.com/N00rAhmed/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N00rAhmed&theme=tokyo-night)](https://github.com/N00rAhmed/github-readme-activity-graph)
 
 <br/>
 
