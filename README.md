@@ -15,7 +15,7 @@
 
 <br/>
 
-[![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=N00rAhmed&theme=tokyonight)](https://github.com/N00rAhmed)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.kevinazemi.com?user=N00rAhmed&theme=tokyonight)](https://git.io/streak-stats)
 
 <br/>
 
