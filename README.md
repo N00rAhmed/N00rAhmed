@@ -19,6 +19,10 @@
 
 <br/>
 
+[![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=N00rAhmed&theme=tokyonight)](https://github.com/N00rAhmed/github-readme-activity-graph)
+
+<br/>
+
 ## ✉️ Find me on:
 
 <p align="left">
