@@ -7,15 +7,15 @@
 - Here is a link to my portfolio website: https://p0rtf0li0-noor.netlify.app
 <br/>
 
+[![GitHub Streak](https://github-readme-streak-stats.vercel.kevinazemi.com?user=N00rAhmed&theme=tokyonight)](https://git.io/streak-stats)
+
+<br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=N00rAhmed&show_icons=true&theme=tokyonight)
 
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N00rAhmed&theme=tokyonight)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.kevinazemi.com?user=N00rAhmed&theme=tokyonight)](https://git.io/streak-stats)
 
 <br/>
 
