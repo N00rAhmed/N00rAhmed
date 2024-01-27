@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N00rAhmed
 - 👀 I’m interested in full-stack development and the technologies that I know are Python, C#, PHP, Laravel, JavaScript, HTML/CSS, React.js, Node.js/Express.js, MongoDB/Mongoose
-- 🌱 I’m currently learning Next.js, Typescript, Flask and Docker
+- 🌱 I’m currently learning Next.js, Typescript, Flask, ASP.NET Core Web API and Docker
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
 - 📫 How to reach me: noor.ahmed232003@outlook.com
 - ![](https://visitor-badge.laobi.icu/badge?page_id=N00rAhmed.N00rAhmed)
