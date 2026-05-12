@@ -16,7 +16,6 @@ https://www.linkedin.com/in/noor-ahmed-b762b0225/
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img alt="download (4)" src="https://github.com/user-attachments/assets/f693b93f-d15a-46f8-86ed-37859692b4bc" height="40" style="vertical-align:top; margin:4px" />
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">                                                                                                                                
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
