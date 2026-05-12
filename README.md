@@ -3,43 +3,18 @@
 - 🌱 I’m currently learning Next.js, Typescript, Flask, ASP.NET Core Web API, Java and Docker
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
 - 📫 How to reach me: noor.ahmed232003@outlook.com
-- ![](https://visitor-badge.laobi.icu/badge?page_id=N00rAhmed.N00rAhmed)
 - Here is a link to my portfolio website: https://p0rtf0li0-noor.netlify.app
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.kevinazemi.com?user=N00rAhmed&theme=tokyonight)](https://git.io/streak-stats)
-
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N00rAhmed&show_icons=true&theme=tokyonight)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N00rAhmed&theme=tokyonight)
-
-<br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=N00rAhmed&theme=tokyo-night)](https://github.com/N00rAhmed/github-readme-activity-graph)
-
-<br/>
 
 ## ✉️ Find me on:
-
-<p align="left">
- <a href="https://linkedin.com/in/"NoorAhmed" target="_blank" rel="noopener noreferrer"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:noor.ahmed232003@outlook.com"> <img src="https://api.softwarekeep.com/media/nimbus/helpcenter/Outlook_Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
+https://www.linkedin.com/in/noor-ahmed-b762b0225/
 
 ## 🧰 Languages and Tools:
 <p align="left">
-
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img alt="download (4)" src="https://github.com/user-attachments/assets/f693b93f-d15a-46f8-86ed-37859692b4bc" height="40" style="vertical-align:top; margin:4px" />
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">                                                                                                                                
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
